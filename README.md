@@ -3,3 +3,8 @@ Learning project built with Spring Boot to integrate Razorpay payment gateway wi
 ### Under development 
 - RazorPay Ragistration Done
 - Intrigation Done in Demo Application
+    - Demo Appplication is Normal Applicaion
+        - like home page
+        - ragistration page
+        - payment page
+        - result page

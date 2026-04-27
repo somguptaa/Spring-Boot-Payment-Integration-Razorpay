@@ -1,10 +1,25 @@
-# Spring-Boot-Payment-Integration-Razorpay
-Learning project built with Spring Boot to integrate Razorpay payment gateway with backend APIs for secure online payment processing.
-### Under development 
-- RazorPay Ragistration Done
-- Intrigation Done in Demo Application
-    - Demo Appplication is Normal Applicaion
-        - like home page
-        - ragistration page
-        - payment page
-        - result page
+# 💳 Spring Boot Payment Integration - Razorpay
+
+This is a Spring Boot project for integrating Razorpay payment gateway.
+
+🚧 **Status:** Under Development
+
+---
+
+## ⚙️ Tech Stack
+- Java
+- Spring Boot
+- Razorpay API
+
+---
+
+## 🚀 What’s Done
+- Basic project setup
+- Razorpay integration (in progress)
+
+---
+
+## 🔄 In Progress
+- Payment order creation
+- Payment verification
+- API development
